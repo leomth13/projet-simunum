@@ -1,2 +1,3 @@
 # projet-simunum
 This repository is related to the numerical simulation project and its associated code. You can find the files for the two parts of the project. The first file named "Finite_differences.py" contains the whole code for the first part of the project, where we work on celestial mechanics and symplectic schemes. The other file 'Spectral_methods.py' is linked to the other part of the project, related to the Kuramoto-Sivashinsky equation and its solution using spectral methods.
+Please read the "Instructions" document if you want to run the code or a part of it, especially for the spectral methods case, where the computing time can reach several minutes if you try to get the data fit plot.
