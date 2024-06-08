@@ -1,0 +1,2 @@
+Celestial mechanics: Each function is packing its method (Heun or Verlet scheme, 2 or 3-body problem) but you have to (re)run the initial conditions each time you want to run a simulation.
+Kuramoto-Sivashinsky equation: Don't run everything at once, your computer will likely suffer... We recommend running the code step by step (there is a comment or a simple text line for each step). Don't expect the last part with the data fit to be quick, our simulation took several minutes to show up.
